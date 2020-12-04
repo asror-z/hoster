@@ -1,0 +1,23 @@
+#
+#      Localhost
+#
+
+127.0.0.1   	localhost
+::1  		    localhost
+
+
+
+10.10.3.55      SQLSERVER
+
+
+#
+#      Dockers
+#
+
+127.0.0.1   	asrorz_php-fpm
+127.0.0.1   	php-fpm
+127.0.0.1   	mariadb
+127.0.0.1   	postgres
+
+
+

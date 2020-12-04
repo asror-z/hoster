@@ -1,0 +1,45 @@
+#
+#      Localhost
+#
+
+127.0.0.1   	localhost
+::1  	 	    localhost
+127.0.0.1   	crm.devolutions.net
+
+
+
+#
+#      Dockers
+#
+
+127.0.0.1   	asrorz_php-fpm
+127.0.0.1   	php-fpm
+127.0.0.1   	mariadb
+127.0.0.1   	postgres
+
+
+#
+#      WebDrive
+#
+
+127.0.0.1    activate.southrivertech.com
+127.0.0.1    216.36.238.134
+127.0.0.1    23.96.124.25
+
+10.10.3.55   SQLSERVER
+
+
+#
+#      ZET
+#
+
+127.0.0.1		zetsoft.uz
+127.0.0.1       zoft.uz
+127.0.0.1	    testing.zoft.uz
+127.0.0.1	    process.zoft.uz
+10.10.3.207	    learning.zoft.uz
+10.10.3.41      wss41.zoft.uz
+10.10.3.153	    wss.zoft.uz
+
+10.10.3.167		market.zetsoft.uz
+10.10.3.167		mplace.zetsoft.uz
