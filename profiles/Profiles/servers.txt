@@ -44,7 +44,7 @@
 127.0.0.1	    testing.zoft.uz
 127.0.0.1	    testing.zetsoft.uz
 127.0.0.1	    process.zoft.uz
-10.10.3.207	    learning.zoft.uz
+192.168.0.132	    learning.zoft.uz
 10.10.3.41      wss41.zoft.uz
 10.10.3.153	    wss.zoft.uz
 
@@ -68,8 +68,8 @@
 127.0.0.1	    mplace.mains.uz
 127.0.0.1	    mplace.rev01.uz
 127.0.0.1	    mplace.rev02.uz
-127.0.0.1	    market.rev01.uz
-127.0.0.1	    market.rev02.uz
+192.168.0.132	    market.rev01.uz
+192.168.0.132	    market.rev02.uz
 127.0.0.1	    arbit.rev01.uz
 127.0.0.1	    arbit.rev02.uz
 127.0.0.1	    eyuf.rev01.uz
@@ -86,7 +86,7 @@
 127.0.0.1		arbit.ashop.uz
 127.0.0.1		arbit.zetsoft.uz
 127.0.0.1		arbit.student.uz
-10.10.3.207		arbit.zoft.uz
+192.168.0.132		arbit.zoft.uz
 127.0.0.1		arbit.days1.uz
 127.0.0.1		arbit.rev01.uz
 
@@ -103,14 +103,14 @@
 127.0.0.1		mplace.student.uz
 127.0.0.1		market.student.uz
 
-127.0.0.1		market.zoft.uz
-127.0.0.1		market.student.uz
-127.0.0.1		market.ashop.uz
-127.0.0.1		market.days1.uz
-127.0.0.1		market.rev01.uz
-127.0.0.1		market.zetsoft.uz
-127.0.0.1		final.zetsoft.uz
-127.0.0.1		market.rev03.uz
+192.168.0.132		market.zoft.uz
+192.168.0.132		market.student.uz
+192.168.0.132		market.ashop.uz
+192.168.0.132		market.days1.uz
+192.168.0.132		market.rev01.uz
+192.168.0.132		market.zetsoft.uz
+192.168.0.132		final.zetsoft.uz
+192.168.0.132		market.rev03.uz
 127.0.0.1		mplace.rev03.uz
 127.0.0.1		eyuf.rev03.uz
 127.0.0.1		dilshod.rev03.uz
@@ -121,7 +121,7 @@
 #	student
 #
 127.0.0.1		student.ashop.uz
-10.10.3.207		student.zoft.uz
+192.168.0.132		student.zoft.uz
 127.0.0.1		student.days1.uz
 127.0.0.1		student.rev01.uz
 127.0.0.1		student.rev02.uz
